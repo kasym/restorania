@@ -1,3 +1,2 @@
-# restorania
+# Папка с проектом Restorania
 Project Restorania
-# Папка с проектом Restorania. 
